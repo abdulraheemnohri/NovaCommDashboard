@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+websockets
+passlib[bcrypt]
+python-jose[cryptography]
+pyjwt
+python-multipart
+paho-mqtt
